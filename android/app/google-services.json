@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "171350712043",
+    "project_id": "internship-d25e0",
+    "storage_bucket": "internship-d25e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171350712043:android:fb3be76c6b98fd4710a8ae",
+        "android_client_info": {
+          "package_name": "com.example.goprogs_internship_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvbb-e1nFfziDKLX2CLU_RoTR7IS7vWao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
